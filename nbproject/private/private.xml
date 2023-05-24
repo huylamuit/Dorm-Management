@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/background.png.jpg</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/nhapSV.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DTO/ThongTinHoaDon_DTO.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/qlpForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/qltbForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DAL/HoaDonDienNuoc_DAL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/qlhddnForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/BLL/HoaDonDienNuoc_BLL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/ctpForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DTO/Phong_DTO.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/BLL/TruongToa_BLL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/background.png</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/qltthd.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/qlsvForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/ThongBaoForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/qltForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DTO/HoaDonDienNuoc_DTO.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/BLL/ThongBao_BLL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/SVqltbForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DAL/ThongBao_DAL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/TTFrame.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DAL/ThongTinHoaDon_DAL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/SVFrame.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/mainForm.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/KTFrame.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/LoginFrame.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/BLL/ThongTinHoaDon_BLL.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/Utils/DBUtils.java</file>
+            <file>file:/D:/Downloads/QLKTX(7_6)-phong/QLKTX(7_6)-huy/QLKTX(6_6)/QLKTX(6_6)/src/qlktx/DAL/Phong_DAL.java</file>
+        </group>
+    </open-files>
+</project-private>
